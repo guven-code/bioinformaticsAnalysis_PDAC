@@ -1,0 +1,2 @@
+Category	Term	Count	%	PValue	Genes	List Total	Pop Hits	Pop Total	Fold Enrichment	Bonferroni	Benjamini	FDR
+KEGG_PATHWAY	hsa04670:Leukocyte transendothelial migration	3	1.639344262295082	0.08903047855199822	PLCG2, CTNNA2, BCAR1	31	115	6879	5.788779803646563	0.9997733549586454	1.0	1.0

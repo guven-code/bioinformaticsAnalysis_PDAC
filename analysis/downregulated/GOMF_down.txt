@@ -1,2 +1,0 @@
-Category	Term	Count	%	PValue	Genes	List Total	Pop Hits	Pop Total	Fold Enrichment	Bonferroni	Benjamini	FDR
-GOTERM_MF_DIRECT	GO:0005261~cation channel activity	2	1.09290	0.09604912	"CATSPER3, TRPM6"	69	25	16881	19.57217391	0.999997799	1	1
